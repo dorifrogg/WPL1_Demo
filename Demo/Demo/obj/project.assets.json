@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Doria\\Desktop\\School\\WPL\\Demo\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\Users\\Doria\\Desktop\\School\\WPL\\Demo1\\WPL1_Demo\\Demo\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "C:\\Users\\Doria\\Desktop\\School\\WPL\\Demo\\Demo\\Demo\\Demo.csproj",
+      "projectPath": "C:\\Users\\Doria\\Desktop\\School\\WPL\\Demo1\\WPL1_Demo\\Demo\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\Doria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Doria\\Desktop\\School\\WPL\\Demo\\Demo\\Demo\\obj\\",
+      "outputPath": "C:\\Users\\Doria\\Desktop\\School\\WPL\\Demo1\\WPL1_Demo\\Demo\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Doria\\AppData\\Roaming\\NuGet\\NuGet.Config",

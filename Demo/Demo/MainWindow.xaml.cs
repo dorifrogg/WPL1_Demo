@@ -20,10 +20,11 @@ namespace Demo
         {
             InitializeComponent();
         }
-
+        string password;
+        int passwordLength = 0;
         private void LogInButton_Click(object sender, RoutedEventArgs e)
         {
-            if (NameTextBox.Text.Equals("admin") && PasswordTextBox.Text.Equals("admin"))
+            if (NameTextBox.Text.Equals("admin") && password == "admin")
             {
                 InfoTextBlock.Text = "U wordt ingelogd.";
             }
@@ -32,6 +33,11 @@ namespace Demo
         private void LogOffButton_Click(object sender, RoutedEventArgs e)
         {
             InfoTextBlock.Text = "";
+        }
+
+        private void PasswordTextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
         }
     }
 }
